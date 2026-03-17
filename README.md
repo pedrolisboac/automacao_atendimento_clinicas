@@ -27,6 +27,12 @@ Este projeto consiste em um **agente automatizado de atendimento 24/7**, capaz d
 
 ---
 
+## 🧠 Arquitetura da Solução
+
+- Cliente → IA (OpenAI) → n8n (orquestração) → Banco de Dados → APIs externas → Resposta ao cliente
+
+---
+
 ## ⚙️ Tecnologias Utilizadas
 
 ### 🔗 Automação e Orquestração
